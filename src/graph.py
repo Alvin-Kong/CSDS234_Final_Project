@@ -7,7 +7,7 @@ from tkinter import *
 yearList = []
 providerList = []
 cityList = []
-AGFSList = []
+AQFSList = []
 condenseProviderList = []
 condenseCityList = []
 
@@ -25,7 +25,7 @@ def getData():
             yearList.append(year)
             providerList.append(provider)
             cityList.append(city)
-            AGFSList.append(AGFS)
+            AQFSList.append(AGFS)
 
 
 def condenseProviders():
@@ -46,14 +46,14 @@ def condenseCities():
             compare = city
     
 
-def providerAverageAGFS():
+def providerAverageAQFS():
     average = []
     for provider in condenseProviderList:
         i = 0
         temp = []
         for p in providerList:
             if p == provider:
-                temp.append(AGFSList[i])
+                temp.append(AQFSList[i])
             
             i += 1
 
@@ -62,14 +62,14 @@ def providerAverageAGFS():
     return(average)
 
 
-def cityAverageAGFS():
+def cityAverageAQFS():
     average = []
     for city in condenseCityList:
         i = 0
         temp = []
         for c in cityList:
             if c == city:
-                temp.append(AGFSList[i])
+                temp.append(AQFSList[i])
 
             i += 1
 
@@ -78,7 +78,7 @@ def cityAverageAGFS():
     return(average)
 
 
-def yearAverageAGFS():
+def yearAverageAQFS():
     yearlyAverages = []
     for year in ['2016', '2017', '2018', '2019']:
         average = []
@@ -87,7 +87,7 @@ def yearAverageAGFS():
             temp = []
             for p in providerList:
                 if p == provider and yearList[i] == year:
-                    temp.append(AGFSList[i])
+                    temp.append(AQFSList[i])
                 
                 i += 1
 
@@ -154,7 +154,7 @@ def timeRegression(a0, a1, a2, a3):
     return regression
 
 
-def plotProviderAverageAGFS(average):
+def plotProviderAverageAQFS(average):
     fig, ax = plt.subplots(figsize =(15, 10))
     ax.barh(condenseProviderList, average)
 
@@ -171,13 +171,13 @@ def plotProviderAverageAGFS(average):
     for i in ax.patches:
         plt.text(i.get_width()+0.2, i.get_y()+0.5, str(round((i.get_width()), 2)), fontsize = 10, fontweight ='bold', color ='grey')
     
-    ax.set_title('Healthcare Providers Average AGFS', loc ='center', )
-    ax.set_xlabel('Average AGFS (%)')
+    ax.set_title('Healthcare Providers Average AQFS', loc ='center', )
+    ax.set_xlabel('Average AQFS (%)')
     ax.set_ylabel('Healthcare Providers')
     plt.show()
 
 
-def plotCityAverageAGFS(average):
+def plotCityAverageAQFS(average):
     fig, ax = plt.subplots(figsize =(13, 10))
     ax.barh(condenseCityList, average)
 
@@ -194,13 +194,13 @@ def plotCityAverageAGFS(average):
     for i in ax.patches:
         plt.text(i.get_width()+0.2, i.get_y()+0.5, str(round((i.get_width()), 2)), fontsize = 10, fontweight ='bold', color ='grey')
     
-    ax.set_title('Citys Average AGFS', loc ='center', )
-    ax.set_xlabel('Average AGFS (%)')
+    ax.set_title('Citys Average AQFS', loc ='center', )
+    ax.set_xlabel('Average AQFS (%)')
     ax.set_ylabel('City')
     plt.show()
 
 
-def plotYearlyAverageAGFS(yearlyAverages):
+def plotYearlyAverageAQFS(yearlyAverages):
     index = 0
     for average in yearlyAverages:
         fig, ax = plt.subplots(figsize =(15, 10))
@@ -220,15 +220,15 @@ def plotYearlyAverageAGFS(yearlyAverages):
             plt.text(i.get_width()+0.2, i.get_y()+0.5, str(round((i.get_width()), 2)), fontsize = 10, fontweight ='bold', color ='grey')
         
         if index == 0:
-            ax.set_title('Healthcare Providers Average AGFS in 2016', loc ='center', )
+            ax.set_title('Healthcare Providers Average AQFS in 2016', loc ='center', )
         elif index == 1:
-            ax.set_title('Healthcare Providers Average AGFS in 2017', loc ='center', )
+            ax.set_title('Healthcare Providers Average AQFS in 2017', loc ='center', )
         elif index == 2:
-            ax.set_title('Healthcare Providers Average AGFS in 2018', loc ='center', )
+            ax.set_title('Healthcare Providers Average AQFS in 2018', loc ='center', )
         else:
-            ax.set_title('Healthcare Providers Average AGFS in 2019', loc ='center', )
+            ax.set_title('Healthcare Providers Average AQFS in 2019', loc ='center', )
         
-        ax.set_xlabel('Average AGFS (%)')
+        ax.set_xlabel('Average AQFS (%)')
         ax.set_ylabel('Healthcare Providers')
         plt.show()
         index += 1
@@ -251,8 +251,8 @@ def plotTimeComparison(averageDif):
     for i in ax.patches:
         plt.text(i.get_width()+0.2, i.get_y()+0.5, str(round((i.get_width()), 2)), fontsize = 10, fontweight ='bold', color ='grey')
     
-    ax.set_title('Citys Average AGFS', loc ='center', )
-    ax.set_xlabel('Average AGFS (%)')
+    ax.set_title('Citys Average AQFS', loc ='center', )
+    ax.set_xlabel('Average AQFS (%)')
     ax.set_ylabel('City')
     plt.show()
 
@@ -263,14 +263,14 @@ def plotRegression(regressions):
         plt.plot(r, label=condenseProviderList[index])
         index += 1
 
-    plt.title('AGFS Regression Between 2016 and 2019')
-    plt.ylabel('AGFS Change (%)')
+    plt.title('AQFS Regression Between 2016 and 2019')
+    plt.ylabel('AQFS Change (%)')
     plt.xlabel('Year')
     plt.legend(loc='upper right')
     plt.show()
 
 
-def plotAGFSOverTime(yearAverage):
+def plotAQFSOverTime(yearAverage):
     index = 0
     for provider in condenseProviderList:
         AGFS = []
@@ -281,59 +281,60 @@ def plotAGFSOverTime(yearAverage):
         plt.plot(['2016', '2017', '2018', '2019'], AGFS, label=provider)
         index += 1
     
-    plt.title('AGFS of Healthcare Providers Between 2016 and 2019')
-    plt.ylabel('AGFS (%)')
+    plt.title('AQFS of Healthcare Providers Between 2016 and 2019')
+    plt.ylabel('AQFS (%)')
     plt.xlabel('Year')
     plt.legend(loc='upper right')
     plt.show()
 
 
 def runProviderAverage():
-    providerAverage = providerAverageAGFS()
-    plotProviderAverageAGFS(providerAverage)
+    providerAverage = providerAverageAQFS()
+    plotProviderAverageAQFS(providerAverage)
 
 
 def runCityAverage():
-    cityAverage = cityAverageAGFS()
-    plotCityAverageAGFS(cityAverage)
+    cityAverage = cityAverageAQFS()
+    plotCityAverageAQFS(cityAverage)
 
 
 def runYearAverage():
-    yearAverage = yearAverageAGFS()
-    plotYearlyAverageAGFS(yearAverage)
+    yearAverage = yearAverageAQFS()
+    plotYearlyAverageAQFS(yearAverage)
 
 
 def runAverageDif():
-    yearAverage = yearAverageAGFS()
+    yearAverage = yearAverageAQFS()
     averageDif = timeComparison(yearAverage[0], yearAverage[3])
     plotTimeComparison(averageDif)
 
 
 def runRecommendations():
-    providerAverage = providerAverageAGFS()
-    cityAverage = cityAverageAGFS()
+    providerAverage = providerAverageAQFS()
+    cityAverage = cityAverageAQFS()
     providerRec = recommendProvider(providerAverage)
     cityRec = recommendCity(cityAverage)
-    print(providerRec[0], "with", providerRec[1], "% AGFS")
-    print(cityRec[0], "with", cityRec[1], "% AGFS")
+    print()
+    print("Recommendations:")
+    print("Healthcare Provider:", providerRec[0], "with", providerRec[1], "% AQFS")
+    print("Region:", cityRec[0], "with", cityRec[1], "% AGFS")
 
 
 def runRegression():
-    yearAverage = yearAverageAGFS()
+    yearAverage = yearAverageAQFS()
     regressions = timeRegression(yearAverage[0], yearAverage[1], yearAverage[2], yearAverage[3])
     plotRegression(regressions)
 
 
-def runPlotAGFS():
-    yearAverage = yearAverageAGFS()
-    plotAGFSOverTime(yearAverage)
+def runPlotAQFS():
+    yearAverage = yearAverageAQFS()
+    plotAQFSOverTime(yearAverage)
 
 
 def initialize():
     getData()
     condenseProviders()
     condenseCities()
-
 
 
 if __name__ == "__main__":
@@ -344,4 +345,4 @@ if __name__ == "__main__":
     runAverageDif()
     runRecommendations()
     runRegression()
-    runPlotAGFS()
+    runPlotAQFS()
