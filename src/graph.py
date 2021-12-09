@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from tkinter import *
 
+filepath = 'data/hedis.csv'
 
 yearList = []
 providerList = []
@@ -14,7 +15,7 @@ condenseCityList = []
 
 def getData():
     # may need to change below to work for your file path (../data/hedis.csv)
-    with open('data/hedis.csv', newline='') as csvfile:
+    with open(filepath, newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar=',')
         for row in reader:
             year = row[0]
