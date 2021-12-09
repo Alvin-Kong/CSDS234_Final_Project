@@ -251,9 +251,9 @@ def plotTimeComparison(averageDif):
     for i in ax.patches:
         plt.text(i.get_width()+0.2, i.get_y()+0.5, str(round((i.get_width()), 2)), fontsize = 10, fontweight ='bold', color ='grey')
     
-    ax.set_title('Citys Average AQFS', loc ='center', )
-    ax.set_xlabel('Average AQFS (%)')
-    ax.set_ylabel('City')
+    ax.set_title('Healthcare Providers Average AQFS Difference From 2016 to 2019', loc ='center', )
+    ax.set_xlabel('Average AQFS Difference (%)')
+    ax.set_ylabel('Healthcare Provider')
     plt.show()
 
 
