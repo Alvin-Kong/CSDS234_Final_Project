@@ -260,13 +260,13 @@ def plotTimeComparison(averageDif):
 def plotRegression(regressions):
     index = 0
     for r in regressions:
-        plt.plot(r, label=condenseProviderList[index])
+        plt.plot(['1', '2', '3'], r, label=condenseProviderList[index])
         index += 1
 
     plt.title('AQFS Regression Between 2016 and 2019')
     plt.ylabel('AQFS Change (%)')
     plt.xlabel('Year')
-    plt.legend(loc='upper right')
+    plt.legend(loc='lower right', ncol=7)
     plt.show()
 
 
@@ -284,7 +284,7 @@ def plotAQFSOverTime(yearAverage):
     plt.title('AQFS of Healthcare Providers Between 2016 and 2019')
     plt.ylabel('AQFS (%)')
     plt.xlabel('Year')
-    plt.legend(loc='upper right')
+    plt.legend(loc='lower right', ncol=7)
     plt.show()
 
 
