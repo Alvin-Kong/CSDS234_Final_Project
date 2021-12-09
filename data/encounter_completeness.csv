@@ -1,0 +1,465 @@
+Plan Parent Reporting Name,Grading Period,Service Category,Total Percentage Complete,Total Color Grade
+AAH,CY 2018,Inpatient,0.99536834,Green
+AAH,CY 2018,Outpatient and Emergency Room,0.983812005,Green
+AAH,CY 2018,Prescription,0.974699773,Green
+AAH,CY 2018,Professional,0.953131315,Green
+AAH,CY 2019,Inpatient,0.961288637,Green
+AAH,CY 2019,Outpatient and Emergency Room,0.933833566,Green
+AAH,CY 2019,Prescription,0.995123507,Green
+AAH,CY 2019,Professional,1.022576199,Green
+AAH,SFY 17-18,Inpatient,0.981437141,Green
+AAH,SFY 17-18,Outpatient and Emergency Room,0.997877294,Green
+AAH,SFY 17-18,Prescription,0.956172988,Green
+AAH,SFY 17-18,Professional,0.940596797,Green
+AAH,SFY 18-19,Inpatient,0.978353809,Green
+AAH,SFY 18-19,Outpatient and Emergency Room,0.908845227,Green
+AAH,SFY 18-19,Prescription,0.988449542,Green
+AAH,SFY 18-19,Professional,1.021062119,Green
+AAH,SFY 19-20,Inpatient,0.963760765,Green
+AAH,SFY 19-20,Outpatient and Emergency Room,0.928910865,Green
+AAH,SFY 19-20,Prescription,1.018852419,Green
+AAH,SFY 19-20,Professional,0.982973699,Green
+Aetna,CY 2019,Inpatient,1.025743809,Green
+Aetna,CY 2019,Outpatient and Emergency Room,0.756273904,Yellow
+Aetna,CY 2019,Prescription,1.004886357,Green
+Aetna,CY 2019,Professional,0.73768912,Yellow
+Aetna,SFY 19-20,Inpatient,1.082173327,Green
+Aetna,SFY 19-20,Outpatient and Emergency Room,0.798863559,Yellow
+Aetna,SFY 19-20,Prescription,1.031860962,Green
+Aetna,SFY 19-20,Professional,1.02763306,Green
+AHF,CY 2019,Inpatient,1.618834081,Yellow
+AHF,CY 2019,Outpatient and Emergency Room,1.400621118,Yellow
+AHF,CY 2019,Prescription,1.055961246,Green
+AHF,CY 2019,Professional,1.413347129,Yellow
+AHF,SFY 19-20,Inpatient,1.211764706,Yellow
+AHF,SFY 19-20,Outpatient and Emergency Room,0.920779221,Green
+AHF,SFY 19-20,Prescription,1.083242179,Green
+AHF,SFY 19-20,Professional,1.338394794,Yellow
+Anthem,CY 2018,Inpatient,1.022814427,Green
+Anthem,CY 2018,Outpatient and Emergency Room,0.968874934,Green
+Anthem,CY 2018,Prescription,0.99570699,Green
+Anthem,CY 2018,Professional,0.629086285,Red
+Anthem,CY 2019,Inpatient,0.972221956,Green
+Anthem,CY 2019,Outpatient and Emergency Room,0.939261643,Green
+Anthem,CY 2019,Prescription,1.021975307,Green
+Anthem,CY 2019,Professional,0.963423301,Green
+Anthem,SFY 17-18,Inpatient,0.973556482,Green
+Anthem,SFY 17-18,Outpatient and Emergency Room,0.962939039,Green
+Anthem,SFY 17-18,Prescription,0.979685353,Green
+Anthem,SFY 17-18,Professional,0.548631776,Red
+Anthem,SFY 18-19,Inpatient,1.000976137,Green
+Anthem,SFY 18-19,Outpatient and Emergency Room,0.928944704,Green
+Anthem,SFY 18-19,Prescription,0.997821739,Green
+Anthem,SFY 18-19,Professional,0.968158124,Green
+Anthem,SFY 19-20,Inpatient,0.958750889,Green
+Anthem,SFY 19-20,Outpatient and Emergency Room,0.92747123,Green
+Anthem,SFY 19-20,Prescription,1.006500082,Green
+Anthem,SFY 19-20,Professional,0.989920197,Green
+Blue Shield,CY 2018,Inpatient,1.014891405,Green
+Blue Shield,CY 2018,Outpatient and Emergency Room,1.070432484,Green
+Blue Shield,CY 2018,Prescription,0.98502454,Green
+Blue Shield,CY 2018,Professional,0.856892825,Yellow
+Blue Shield,CY 2019,Inpatient,1.034774702,Green
+Blue Shield,CY 2019,Outpatient and Emergency Room,1.031676489,Green
+Blue Shield,CY 2019,Prescription,0.988050611,Green
+Blue Shield,CY 2019,Professional,0.92421789,Green
+Blue Shield,SFY 17-18,Inpatient,0.867425353,Yellow
+Blue Shield,SFY 17-18,Outpatient and Emergency Room,1.049210884,Green
+Blue Shield,SFY 17-18,Prescription,0.959725288,Green
+Blue Shield,SFY 17-18,Professional,0.826635935,Yellow
+Blue Shield,SFY 18-19,Inpatient,0.99723669,Green
+Blue Shield,SFY 18-19,Outpatient and Emergency Room,1.011685743,Green
+Blue Shield,SFY 18-19,Prescription,0.995902346,Green
+Blue Shield,SFY 18-19,Professional,0.897726884,Yellow
+Blue Shield,SFY 19-20,Inpatient,0.920497401,Green
+Blue Shield,SFY 19-20,Outpatient and Emergency Room,1.010279948,Green
+Blue Shield,SFY 19-20,Prescription,0.994607539,Green
+Blue Shield,SFY 19-20,Professional,1.01654783,Green
+CalOptima,CY 2018,Inpatient,0.953780883,Green
+CalOptima,CY 2018,Outpatient and Emergency Room,0.904106515,Green
+CalOptima,CY 2018,Prescription,1.005072061,Green
+CalOptima,CY 2018,Professional,0.849463836,Yellow
+CalOptima,CY 2019,Inpatient,0.813886268,Yellow
+CalOptima,CY 2019,Outpatient and Emergency Room,1.051005302,Green
+CalOptima,CY 2019,Prescription,1.039097954,Green
+CalOptima,CY 2019,Professional,1.010874926,Green
+CalOptima,SFY 17-18,Inpatient,0.995984417,Green
+CalOptima,SFY 17-18,Outpatient and Emergency Room,1.078279788,Green
+CalOptima,SFY 17-18,Prescription,0.999953968,Green
+CalOptima,SFY 17-18,Professional,0.849664051,Yellow
+CalOptima,SFY 18-19,Inpatient,0.878706574,Yellow
+CalOptima,SFY 18-19,Outpatient and Emergency Room,1.05893055,Green
+CalOptima,SFY 18-19,Prescription,1.01679178,Green
+CalOptima,SFY 18-19,Professional,1.031235749,Green
+CalOptima,SFY 19-20,Inpatient,0.892749309,Yellow
+CalOptima,SFY 19-20,Outpatient and Emergency Room,1.016709238,Green
+CalOptima,SFY 19-20,Prescription,1.031789648,Green
+CalOptima,SFY 19-20,Professional,1.020486202,Green
+CalViva,CY 2018,Inpatient,1.001471927,Green
+CalViva,CY 2018,Outpatient and Emergency Room,1.011598353,Green
+CalViva,CY 2018,Prescription,1.040064967,Green
+CalViva,CY 2018,Professional,0.963183003,Green
+CalViva,CY 2019,Inpatient,0.983078707,Green
+CalViva,CY 2019,Outpatient and Emergency Room,1.018834369,Green
+CalViva,CY 2019,Prescription,1.052255669,Green
+CalViva,CY 2019,Professional,1.110279701,Yellow
+CalViva,SFY 17-18,Inpatient,0.972356607,Green
+CalViva,SFY 17-18,Outpatient and Emergency Room,1.137851197,Yellow
+CalViva,SFY 17-18,Prescription,1.040948824,Green
+CalViva,SFY 17-18,Professional,0.845883225,Yellow
+CalViva,SFY 18-19,Inpatient,0.980303738,Green
+CalViva,SFY 18-19,Outpatient and Emergency Room,1.010585527,Green
+CalViva,SFY 18-19,Prescription,1.035572499,Green
+CalViva,SFY 18-19,Professional,1.100564922,Yellow
+CalViva,SFY 19-20,Inpatient,0.975325098,Green
+CalViva,SFY 19-20,Outpatient and Emergency Room,1.044901541,Green
+CalViva,SFY 19-20,Prescription,1.049905871,Green
+CalViva,SFY 19-20,Professional,1.013241976,Green
+CCAH,CY 2018,Inpatient,1.139470256,Yellow
+CCAH,CY 2018,Outpatient and Emergency Room,0.942490283,Green
+CCAH,CY 2018,Prescription,0.984904305,Green
+CCAH,CY 2018,Professional,0.969478243,Green
+CCAH,CY 2019,Inpatient,1.07134172,Green
+CCAH,CY 2019,Outpatient and Emergency Room,0.835266477,Yellow
+CCAH,CY 2019,Prescription,1.023176721,Green
+CCAH,CY 2019,Professional,0.976445571,Green
+CCAH,SFY 17-18,Inpatient,1.10080599,Yellow
+CCAH,SFY 17-18,Outpatient and Emergency Room,0.921192876,Green
+CCAH,SFY 17-18,Prescription,0.956962379,Green
+CCAH,SFY 17-18,Professional,0.928757349,Green
+CCAH,SFY 18-19,Inpatient,1.100818622,Yellow
+CCAH,SFY 18-19,Outpatient and Emergency Room,0.824910618,Yellow
+CCAH,SFY 18-19,Prescription,1.007194215,Green
+CCAH,SFY 18-19,Professional,0.978841194,Green
+CCAH,SFY 19-20,Inpatient,1.034990954,Green
+CCAH,SFY 19-20,Outpatient and Emergency Room,0.827159664,Yellow
+CCAH,SFY 19-20,Prescription,1.02969529,Green
+CCAH,SFY 19-20,Professional,0.947239209,Green
+CCHP,CY 2018,Inpatient,1.007984719,Green
+CCHP,CY 2018,Outpatient and Emergency Room,0.911441785,Green
+CCHP,CY 2018,Prescription,1.045352133,Green
+CCHP,CY 2018,Professional,1.011967552,Green
+CCHP,CY 2019,Inpatient,0.961041816,Green
+CCHP,CY 2019,Outpatient and Emergency Room,1.021597335,Green
+CCHP,CY 2019,Prescription,1.024423777,Green
+CCHP,CY 2019,Professional,1.05171796,Green
+CCHP,SFY 17-18,Inpatient,1.018845634,Green
+CCHP,SFY 17-18,Outpatient and Emergency Room,1.679374534,Yellow
+CCHP,SFY 17-18,Prescription,1.043227706,Green
+CCHP,SFY 17-18,Professional,0.949756859,Green
+CCHP,SFY 18-19,Inpatient,0.982804233,Green
+CCHP,SFY 18-19,Outpatient and Emergency Room,0.956679617,Green
+CCHP,SFY 18-19,Prescription,1.030055765,Green
+CCHP,SFY 18-19,Professional,1.033554381,Green
+CCHP,SFY 19-20,Inpatient,0.970167459,Green
+CCHP,SFY 19-20,Outpatient and Emergency Room,0.961749493,Green
+CCHP,SFY 19-20,Prescription,1.023401281,Green
+CCHP,SFY 19-20,Professional,1.00856563,Green
+CenCal,CY 2018,Inpatient,1.034892319,Green
+CenCal,CY 2018,Outpatient and Emergency Room,0.965005483,Green
+CenCal,CY 2018,Prescription,1.034691159,Green
+CenCal,CY 2018,Professional,0.972604628,Green
+CenCal,CY 2019,Inpatient,1.037934388,Green
+CenCal,CY 2019,Outpatient and Emergency Room,0.988042259,Green
+CenCal,CY 2019,Prescription,1.058268374,Green
+CenCal,CY 2019,Professional,1.026540709,Green
+CenCal,SFY 17-18,Inpatient,1.024530377,Green
+CenCal,SFY 17-18,Outpatient and Emergency Room,0.96424183,Green
+CenCal,SFY 17-18,Prescription,1.028647878,Green
+CenCal,SFY 17-18,Professional,0.968866799,Green
+CenCal,SFY 18-19,Inpatient,1.000634305,Green
+CenCal,SFY 18-19,Outpatient and Emergency Room,0.982954378,Green
+CenCal,SFY 18-19,Prescription,1.031679757,Green
+CenCal,SFY 18-19,Professional,1.015509398,Green
+CenCal,SFY 19-20,Inpatient,1.012154696,Green
+CenCal,SFY 19-20,Outpatient and Emergency Room,0.975062785,Green
+CenCal,SFY 19-20,Prescription,1.048529409,Green
+CenCal,SFY 19-20,Professional,0.989214726,Green
+CH&W,CY 2018,Inpatient,1.056913736,Green
+CH&W,CY 2018,Outpatient and Emergency Room,1.073898878,Green
+CH&W,CY 2018,Prescription,1.007389045,Green
+CH&W,CY 2018,Professional,0.988273315,Green
+CH&W,CY 2019,Inpatient,0.979314091,Green
+CH&W,CY 2019,Outpatient and Emergency Room,0.933534179,Green
+CH&W,CY 2019,Prescription,0.992189149,Green
+CH&W,CY 2019,Professional,1.001325527,Green
+CH&W,SFY 17-18,Inpatient,1.022082702,Green
+CH&W,SFY 17-18,Outpatient and Emergency Room,1.052440446,Green
+CH&W,SFY 17-18,Prescription,1.016017286,Green
+CH&W,SFY 17-18,Professional,0.989033798,Green
+CH&W,SFY 18-19,Inpatient,1.031373469,Green
+CH&W,SFY 18-19,Outpatient and Emergency Room,0.962685483,Green
+CH&W,SFY 18-19,Prescription,0.993463725,Green
+CH&W,SFY 18-19,Professional,1.010145943,Green
+CH&W,SFY 19-20,Inpatient,1.004399111,Green
+CH&W,SFY 19-20,Outpatient and Emergency Room,0.98912098,Green
+CH&W,SFY 19-20,Prescription,0.981080321,Green
+CH&W,SFY 19-20,Professional,1.015344793,Green
+CHG,CY 2018,Inpatient,0.949808543,Green
+CHG,CY 2018,Outpatient and Emergency Room,0.999378492,Green
+CHG,CY 2018,Prescription,1.089057653,Green
+CHG,CY 2018,Professional,0.940003944,Green
+CHG,CY 2019,Inpatient,0.868797772,Yellow
+CHG,CY 2019,Outpatient and Emergency Room,0.996618328,Green
+CHG,CY 2019,Prescription,1.035547689,Green
+CHG,CY 2019,Professional,0.97038427,Green
+CHG,SFY 17-18,Inpatient,0.938728866,Green
+CHG,SFY 17-18,Outpatient and Emergency Room,0.981340051,Green
+CHG,SFY 17-18,Prescription,1.029459034,Green
+CHG,SFY 17-18,Professional,0.923446026,Green
+CHG,SFY 18-19,Inpatient,0.942443839,Green
+CHG,SFY 18-19,Outpatient and Emergency Room,0.951516066,Green
+CHG,SFY 18-19,Prescription,1.025433516,Green
+CHG,SFY 18-19,Professional,0.977950088,Green
+CHG,SFY 19-20,Inpatient,0.85696307,Yellow
+CHG,SFY 19-20,Outpatient and Emergency Room,0.962274606,Green
+CHG,SFY 19-20,Prescription,1.021084846,Green
+CHG,SFY 19-20,Professional,0.985465598,Green
+GCHP,CY 2018,Inpatient,0.992766443,Green
+GCHP,CY 2018,Outpatient and Emergency Room,1.07470679,Green
+GCHP,CY 2018,Prescription,1.038300063,Green
+GCHP,CY 2018,Professional,1.002941195,Green
+GCHP,CY 2019,Inpatient,0.975002152,Green
+GCHP,CY 2019,Outpatient and Emergency Room,0.96674873,Green
+GCHP,CY 2019,Prescription,1.040355606,Green
+GCHP,CY 2019,Professional,1.088039109,Green
+GCHP,SFY 17-18,Inpatient,0.987427499,Green
+GCHP,SFY 17-18,Outpatient and Emergency Room,1.068826721,Green
+GCHP,SFY 17-18,Prescription,1.051307412,Green
+GCHP,SFY 17-18,Professional,0.912016848,Green
+GCHP,SFY 18-19,Inpatient,0.957060124,Green
+GCHP,SFY 18-19,Outpatient and Emergency Room,0.976571117,Green
+GCHP,SFY 18-19,Prescription,1.031497016,Green
+GCHP,SFY 18-19,Professional,1.047622373,Green
+GCHP,SFY 19-20,Inpatient,0.994987299,Green
+GCHP,SFY 19-20,Outpatient and Emergency Room,0.972696792,Green
+GCHP,SFY 19-20,Prescription,1.003813729,Green
+GCHP,SFY 19-20,Professional,1.094191003,Green
+Health Net,CY 2018,Inpatient,0.978654544,Green
+Health Net,CY 2018,Outpatient and Emergency Room,1.009785784,Green
+Health Net,CY 2018,Prescription,1.015775104,Green
+Health Net,CY 2018,Professional,0.671420227,Red
+Health Net,CY 2019,Inpatient,0.968926452,Green
+Health Net,CY 2019,Outpatient and Emergency Room,0.882623973,Yellow
+Health Net,CY 2019,Prescription,1.03550963,Green
+Health Net,CY 2019,Professional,1.001050328,Green
+Health Net,SFY 17-18,Inpatient,0.939924578,Green
+Health Net,SFY 17-18,Outpatient and Emergency Room,0.95608095,Green
+Health Net,SFY 17-18,Prescription,1.026503636,Green
+Health Net,SFY 17-18,Professional,0.504948526,Red
+Health Net,SFY 18-19,Inpatient,0.99735607,Green
+Health Net,SFY 18-19,Outpatient and Emergency Room,0.89169496,Yellow
+Health Net,SFY 18-19,Prescription,1.025918859,Green
+Health Net,SFY 18-19,Professional,1.036976558,Green
+Health Net,SFY 19-20,Inpatient,0.96171947,Green
+Health Net,SFY 19-20,Outpatient and Emergency Room,0.847407011,Yellow
+Health Net,SFY 19-20,Prescription,1.022570312,Green
+Health Net,SFY 19-20,Professional,0.986612848,Green
+HPSJ,CY 2018,Inpatient,0.993936652,Green
+HPSJ,CY 2018,Outpatient and Emergency Room,1.126182321,Yellow
+HPSJ,CY 2018,Prescription,1.010467175,Green
+HPSJ,CY 2018,Professional,0.943872809,Green
+HPSJ,CY 2019,Inpatient,1.009810369,Green
+HPSJ,CY 2019,Outpatient and Emergency Room,1.018747051,Green
+HPSJ,CY 2019,Prescription,1.010735972,Green
+HPSJ,CY 2019,Professional,1.066951836,Green
+HPSJ,SFY 17-18,Inpatient,0.99533675,Green
+HPSJ,SFY 17-18,Outpatient and Emergency Room,1.147499728,Yellow
+HPSJ,SFY 17-18,Prescription,1.008860598,Green
+HPSJ,SFY 17-18,Professional,0.94474465,Green
+HPSJ,SFY 18-19,Inpatient,1.032188219,Green
+HPSJ,SFY 18-19,Outpatient and Emergency Room,1.030158867,Green
+HPSJ,SFY 18-19,Prescription,0.996593875,Green
+HPSJ,SFY 18-19,Professional,1.047583496,Green
+HPSJ,SFY 19-20,Inpatient,0.99639262,Green
+HPSJ,SFY 19-20,Outpatient and Emergency Room,0.95969366,Green
+HPSJ,SFY 19-20,Prescription,1.013538917,Green
+HPSJ,SFY 19-20,Professional,1.03009274,Green
+HPSM,CY 2018,Inpatient,1.053131265,Green
+HPSM,CY 2018,Outpatient and Emergency Room,1.591530549,Yellow
+HPSM,CY 2018,Prescription,0.999522412,Green
+HPSM,CY 2018,Professional,0.774111573,Yellow
+HPSM,CY 2019,Inpatient,0.991754475,Green
+HPSM,CY 2019,Outpatient and Emergency Room,1.677536181,Yellow
+HPSM,CY 2019,Prescription,1.011982739,Green
+HPSM,CY 2019,Professional,0.923985357,Green
+HPSM,SFY 17-18,Inpatient,1.024716651,Green
+HPSM,SFY 17-18,Outpatient and Emergency Room,1.236089383,Yellow
+HPSM,SFY 17-18,Prescription,1.001620049,Green
+HPSM,SFY 17-18,Professional,0.800673122,Yellow
+HPSM,SFY 18-19,Inpatient,1.096702764,Green
+HPSM,SFY 18-19,Outpatient and Emergency Room,1.630110926,Yellow
+HPSM,SFY 18-19,Prescription,1.010177966,Green
+HPSM,SFY 18-19,Professional,0.907464402,Green
+HPSM,SFY 19-20,Inpatient,0.918210042,Green
+HPSM,SFY 19-20,Outpatient and Emergency Room,1.565263199,Yellow
+HPSM,SFY 19-20,Prescription,1.029699878,Green
+HPSM,SFY 19-20,Professional,0.927887581,Green
+IEHP,CY 2018,Inpatient,1.011201369,Green
+IEHP,CY 2018,Outpatient and Emergency Room,1.214478293,Yellow
+IEHP,CY 2018,Prescription,0.983060128,Green
+IEHP,CY 2018,Professional,0.885783994,Yellow
+IEHP,CY 2019,Inpatient,0.97647304,Green
+IEHP,CY 2019,Outpatient and Emergency Room,1.004363647,Green
+IEHP,CY 2019,Prescription,0.989089306,Green
+IEHP,CY 2019,Professional,1.073057687,Green
+IEHP,SFY 17-18,Inpatient,0.878492834,Yellow
+IEHP,SFY 17-18,Outpatient and Emergency Room,1.061091202,Green
+IEHP,SFY 17-18,Prescription,1.017369337,Green
+IEHP,SFY 17-18,Professional,0.776550073,Yellow
+IEHP,SFY 18-19,Inpatient,0.994931797,Green
+IEHP,SFY 18-19,Outpatient and Emergency Room,0.995019014,Green
+IEHP,SFY 18-19,Prescription,0.971051898,Green
+IEHP,SFY 18-19,Professional,1.054803455,Green
+IEHP,SFY 19-20,Inpatient,0.967964938,Green
+IEHP,SFY 19-20,Outpatient and Emergency Room,0.970086931,Green
+IEHP,SFY 19-20,Prescription,0.995822008,Green
+IEHP,SFY 19-20,Professional,1.068702794,Green
+Kaiser,CY 2018,Inpatient,1.008996819,Green
+Kaiser,CY 2018,Outpatient and Emergency Room,0.982644581,Green
+Kaiser,CY 2018,Prescription,0.997560924,Green
+Kaiser,CY 2018,Professional,1.049831995,Green
+Kaiser,CY 2019,Inpatient,0.991864592,Green
+Kaiser,CY 2019,Outpatient and Emergency Room,1.051875195,Green
+Kaiser,CY 2019,Prescription,1.02221219,Green
+Kaiser,CY 2019,Professional,1.021883005,Green
+Kaiser,SFY 17-18,Inpatient,1.014228577,Green
+Kaiser,SFY 17-18,Outpatient and Emergency Room,0.936092663,Green
+Kaiser,SFY 17-18,Prescription,0.982963001,Green
+Kaiser,SFY 17-18,Professional,0.832275983,Yellow
+Kaiser,SFY 18-19,Inpatient,1.112564021,Yellow
+Kaiser,SFY 18-19,Outpatient and Emergency Room,1.038688552,Green
+Kaiser,SFY 18-19,Prescription,1.010233274,Green
+Kaiser,SFY 18-19,Professional,1.042505714,Green
+Kaiser,SFY 19-20,Inpatient,1.091503646,Green
+Kaiser,SFY 19-20,Outpatient and Emergency Room,1.028293628,Green
+Kaiser,SFY 19-20,Prescription,1.007938802,Green
+Kaiser,SFY 19-20,Professional,1.032439624,Green
+Kern,CY 2018,Inpatient,0.892045868,Yellow
+Kern,CY 2018,Outpatient and Emergency Room,1.298672052,Yellow
+Kern,CY 2018,Prescription,0.998680375,Green
+Kern,CY 2018,Professional,0.897696327,Yellow
+Kern,CY 2019,Inpatient,0.963790311,Green
+Kern,CY 2019,Outpatient and Emergency Room,1.009538604,Green
+Kern,CY 2019,Prescription,1.03372736,Green
+Kern,CY 2019,Professional,1.249703343,Yellow
+Kern,SFY 17-18,Inpatient,0.906204906,Green
+Kern,SFY 17-18,Outpatient and Emergency Room,1.283466688,Yellow
+Kern,SFY 17-18,Prescription,1.018497884,Green
+Kern,SFY 17-18,Professional,0.849571296,Yellow
+Kern,SFY 18-19,Inpatient,0.938419849,Green
+Kern,SFY 18-19,Outpatient and Emergency Room,0.984196612,Green
+Kern,SFY 18-19,Prescription,1.004917389,Green
+Kern,SFY 18-19,Professional,1.245211451,Yellow
+Kern,SFY 19-20,Inpatient,0.970057264,Green
+Kern,SFY 19-20,Outpatient and Emergency Room,1.026363556,Green
+Kern,SFY 19-20,Prescription,1.00456268,Green
+Kern,SFY 19-20,Professional,1.192515082,Yellow
+LA Care,CY 2018,Inpatient,0.814182888,Yellow
+LA Care,CY 2018,Outpatient and Emergency Room,0.965805939,Green
+LA Care,CY 2018,Prescription,0.948961348,Green
+LA Care,CY 2018,Professional,0.782394552,Yellow
+LA Care,CY 2019,Inpatient,0.926607339,Green
+LA Care,CY 2019,Outpatient and Emergency Room,0.967757298,Green
+LA Care,CY 2019,Prescription,0.977574223,Green
+LA Care,CY 2019,Professional,1.010973307,Green
+LA Care,SFY 17-18,Inpatient,0.833467383,Yellow
+LA Care,SFY 17-18,Outpatient and Emergency Room,1.022995873,Green
+LA Care,SFY 17-18,Prescription,0.994335111,Green
+LA Care,SFY 17-18,Professional,0.648935805,Red
+LA Care,SFY 18-19,Inpatient,0.85753577,Yellow
+LA Care,SFY 18-19,Outpatient and Emergency Room,0.971811744,Green
+LA Care,SFY 18-19,Prescription,0.935168892,Green
+LA Care,SFY 18-19,Professional,1.056618974,Green
+LA Care,SFY 19-20,Inpatient,0.88046839,Yellow
+LA Care,SFY 19-20,Outpatient and Emergency Room,1.000509575,Green
+LA Care,SFY 19-20,Prescription,0.980711058,Green
+LA Care,SFY 19-20,Professional,0.952609961,Green
+Molina,CY 2018,Inpatient,0.986958415,Green
+Molina,CY 2018,Outpatient and Emergency Room,0.983499938,Green
+Molina,CY 2018,Prescription,0.984196419,Green
+Molina,CY 2018,Professional,0.887194366,Yellow
+Molina,CY 2019,Inpatient,1.020725283,Green
+Molina,CY 2019,Outpatient and Emergency Room,0.974474591,Green
+Molina,CY 2019,Prescription,0.931487687,Green
+Molina,CY 2019,Professional,0.953098604,Green
+Molina,SFY 17-18,Inpatient,0.959559648,Green
+Molina,SFY 17-18,Outpatient and Emergency Room,0.997654716,Green
+Molina,SFY 17-18,Prescription,0.990607527,Green
+Molina,SFY 17-18,Professional,0.877520133,Yellow
+Molina,SFY 18-19,Inpatient,1.040923084,Green
+Molina,SFY 18-19,Outpatient and Emergency Room,1.004655657,Green
+Molina,SFY 18-19,Prescription,0.949640476,Green
+Molina,SFY 18-19,Professional,0.959789756,Green
+Molina,SFY 19-20,Inpatient,0.995991659,Green
+Molina,SFY 19-20,Outpatient and Emergency Room,0.981940227,Green
+Molina,SFY 19-20,Prescription,0.979523027,Green
+Molina,SFY 19-20,Professional,1.033506035,Green
+Partnership,CY 2018,Inpatient,0.966841672,Green
+Partnership,CY 2018,Outpatient and Emergency Room,0.940372972,Green
+Partnership,CY 2018,Prescription,0.981788704,Green
+Partnership,CY 2018,Professional,0.814031033,Yellow
+Partnership,CY 2019,Inpatient,0.9537382,Green
+Partnership,CY 2019,Outpatient and Emergency Room,0.833905571,Yellow
+Partnership,CY 2019,Prescription,0.989701067,Green
+Partnership,CY 2019,Professional,0.991947287,Green
+Partnership,SFY 17-18,Inpatient,0.962312812,Green
+Partnership,SFY 17-18,Outpatient and Emergency Room,0.889672861,Yellow
+Partnership,SFY 17-18,Prescription,0.995704534,Green
+Partnership,SFY 17-18,Professional,0.817587146,Yellow
+Partnership,SFY 18-19,Inpatient,0.960878885,Green
+Partnership,SFY 18-19,Outpatient and Emergency Room,0.857024069,Yellow
+Partnership,SFY 18-19,Prescription,0.980318278,Green
+Partnership,SFY 18-19,Professional,1.010624993,Green
+Partnership,SFY 19-20,Inpatient,0.962529826,Green
+Partnership,SFY 19-20,Outpatient and Emergency Room,0.780936503,Yellow
+Partnership,SFY 19-20,Prescription,0.976565097,Green
+Partnership,SFY 19-20,Professional,0.961347558,Green
+SCFHP,CY 2018,Inpatient,0.932507647,Green
+SCFHP,CY 2018,Outpatient and Emergency Room,0.895036019,Yellow
+SCFHP,CY 2018,Prescription,0.955777031,Green
+SCFHP,CY 2018,Professional,0.954809848,Green
+SCFHP,CY 2019,Inpatient,0.927479361,Green
+SCFHP,CY 2019,Outpatient and Emergency Room,0.984060339,Green
+SCFHP,CY 2019,Prescription,0.994527879,Green
+SCFHP,CY 2019,Professional,0.983311288,Green
+SCFHP,SFY 17-18,Inpatient,0.957247711,Green
+SCFHP,SFY 17-18,Outpatient and Emergency Room,0.817625082,Yellow
+SCFHP,SFY 17-18,Prescription,0.95433283,Green
+SCFHP,SFY 17-18,Professional,0.943299585,Green
+SCFHP,SFY 18-19,Inpatient,0.936874034,Green
+SCFHP,SFY 18-19,Outpatient and Emergency Room,0.948231919,Green
+SCFHP,SFY 18-19,Prescription,0.983155129,Green
+SCFHP,SFY 18-19,Professional,0.972400332,Green
+SCFHP,SFY 19-20,Inpatient,0.912784984,Green
+SCFHP,SFY 19-20,Outpatient and Emergency Room,0.979709687,Green
+SCFHP,SFY 19-20,Prescription,0.951016315,Green
+SCFHP,SFY 19-20,Professional,0.98660295,Green
+SFHP,CY 2018,Inpatient,1.016940096,Green
+SFHP,CY 2018,Outpatient and Emergency Room,0.976191994,Green
+SFHP,CY 2018,Prescription,1.001586187,Green
+SFHP,CY 2018,Professional,0.993615865,Green
+SFHP,CY 2019,Inpatient,1.003357,Green
+SFHP,CY 2019,Outpatient and Emergency Room,0.995829933,Green
+SFHP,CY 2019,Prescription,0.988543703,Green
+SFHP,CY 2019,Professional,0.979746727,Green
+SFHP,SFY 17-18,Inpatient,0.997449321,Green
+SFHP,SFY 17-18,Outpatient and Emergency Room,0.958894304,Green
+SFHP,SFY 17-18,Prescription,0.999460739,Green
+SFHP,SFY 17-18,Professional,0.977018705,Green
+SFHP,SFY 18-19,Inpatient,1.022656703,Green
+SFHP,SFY 18-19,Outpatient and Emergency Room,0.95758186,Green
+SFHP,SFY 18-19,Prescription,0.985031735,Green
+SFHP,SFY 18-19,Professional,1.03872102,Green
+SFHP,SFY 19-20,Inpatient,1.041663979,Green
+SFHP,SFY 19-20,Outpatient and Emergency Room,0.97306282,Green
+SFHP,SFY 19-20,Prescription,0.99521194,Green
+SFHP,SFY 19-20,Professional,1.028680637,Green
+United,CY 2019,Inpatient,1.069567163,Green
+United,CY 2019,Outpatient and Emergency Room,0.987914978,Green
+United,CY 2019,Prescription,0.921682179,Green
+United,CY 2019,Professional,0.925327901,Green
+United,SFY 19-20,Inpatient,1.044451985,Green
+United,SFY 19-20,Outpatient and Emergency Room,0.991425305,Green
+United,SFY 19-20,Prescription,0.931591042,Green
+United,SFY 19-20,Professional,0.922178912,Green

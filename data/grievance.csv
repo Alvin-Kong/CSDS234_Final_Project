@@ -1,0 +1,73 @@
+Quarter,Grievance Category,Grievance Type,Count
+2020Q2,Accessibility Grievance,Excessive Long Wait Time,972
+2020Q2,Accessibility Grievance,Facility Physical Access,424
+2020Q2,Accessibility Grievance,Language Accessibility,88
+2020Q2,Accessibility Grievance,Primary Care Provider Availability,3545
+2020Q2,Accessibility Grievance,Specialist Availability,1290
+2020Q2,Accessibility Grievance,Telephone Accessibility,966
+2020Q3,Accessibility Grievance,Excessive Long Wait Time,4502
+2020Q3,Accessibility Grievance,Facility Physical Access,566
+2020Q3,Accessibility Grievance,Language Accessibility,136
+2020Q3,Accessibility Grievance,Primary Care Provider Availability,5434
+2020Q3,Accessibility Grievance,Specialist Availability,2118
+2020Q3,Accessibility Grievance,Telephone Accessibility,2342
+2020Q4,Accessibility Grievance,Excessive Long Wait Time,6721
+2020Q4,Accessibility Grievance,Facility Physical Access,837
+2020Q4,Accessibility Grievance,Language Accessibility,233
+2020Q4,Accessibility Grievance,Primary Care Provider Availability,5492
+2020Q4,Accessibility Grievance,Specialist Availability,1971
+2020Q4,Accessibility Grievance,Telephone Accessibility,1397
+2021Q1,Accessibility Grievance,Excessive Long Wait Time,2071
+2021Q1,Accessibility Grievance,Facility Physical Access,849
+2021Q1,Accessibility Grievance,Language Accessibility,113
+2021Q1,Accessibility Grievance,Primary Care Provider Availability,10117
+2021Q1,Accessibility Grievance,Specialist Availability,2081
+2021Q1,Accessibility Grievance,Telephone Accessibility,2834
+2020Q2,Benefits Grievance,Dispute over Covered Services,5241
+2020Q3,Benefits Grievance,Dispute over Covered Services,5884
+2020Q4,Benefits Grievance,Dispute over Covered Services,5709
+2021Q1,Benefits Grievance,Dispute over Covered Services,6398
+2020Q2,Quality of Care Grievance,Inadequate Facilities,1136
+2020Q2,Quality of Care Grievance,Inappropriate Ancillary Care,1194
+2020Q2,Quality of Care Grievance,Inappropriate Hospital Care,509
+2020Q2,Quality of Care Grievance,Inappropriate Provider Care,4231
+2020Q2,Quality of Care Grievance,Plan Denial of Treatment,467
+2020Q2,Quality of Care Grievance,Poor Provider/Staff Attitude,6908
+2020Q2,Quality of Care Grievance,Provider Denial of Treatment,482
+2020Q3,Quality of Care Grievance,Inadequate Facilities,1715
+2020Q3,Quality of Care Grievance,Inappropriate Ancillary Care,1496
+2020Q3,Quality of Care Grievance,Inappropriate Hospital Care,640
+2020Q3,Quality of Care Grievance,Inappropriate Provider Care,6483
+2020Q3,Quality of Care Grievance,Plan Denial of Treatment,1402
+2020Q3,Quality of Care Grievance,Poor Provider/Staff Attitude,9540
+2020Q3,Quality of Care Grievance,Provider Denial of Treatment,496
+2020Q4,Quality of Care Grievance,Inadequate Facilities,1452
+2020Q4,Quality of Care Grievance,Inappropriate Ancillary Care,1165
+2020Q4,Quality of Care Grievance,Inappropriate Hospital Care,448
+2020Q4,Quality of Care Grievance,Inappropriate Provider Care,5765
+2020Q4,Quality of Care Grievance,Plan Denial of Treatment,1131
+2020Q4,Quality of Care Grievance,Poor Provider/Staff Attitude,6885
+2020Q4,Quality of Care Grievance,Provider Denial of Treatment,494
+2021Q1,Quality of Care Grievance,Inadequate Facilities,1402
+2021Q1,Quality of Care Grievance,Inappropriate Ancillary Care,1123
+2021Q1,Quality of Care Grievance,Inappropriate Hospital Care,415
+2021Q1,Quality of Care Grievance,Inappropriate Provider Care,5737
+2021Q1,Quality of Care Grievance,Plan Denial of Treatment,1213
+2021Q1,Quality of Care Grievance,Poor Provider/Staff Attitude,6464
+2021Q1,Quality of Care Grievance,Provider Denial of Treatment,624
+2020Q2,Referral Grievance,Delay in Referral,1714
+2020Q2,Referral Grievance,Plan Refusal to Refer,13
+2020Q2,Referral Grievance,Provider Refusal to Refer,70
+2020Q3,Referral Grievance,Delay in Referral,1918
+2020Q3,Referral Grievance,Plan Refusal to Refer,406
+2020Q3,Referral Grievance,Provider Refusal to Refer,360
+2020Q4,Referral Grievance,Delay in Referral,1843
+2020Q4,Referral Grievance,Plan Refusal to Refer,329
+2020Q4,Referral Grievance,Provider Refusal to Refer,101
+2021Q1,Referral Grievance,Delay in Referral,1906
+2021Q1,Referral Grievance,Plan Refusal to Refer,336
+2021Q1,Referral Grievance,Provider Refusal to Refer,320
+2020Q2,Other Grievance,Other,27401
+2020Q3,Other Grievance,Other,36911
+2020Q4,Other Grievance,Other,36465
+2021Q1,Other Grievance,Other,40389
